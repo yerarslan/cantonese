@@ -1,0 +1,21 @@
+.character-button {
+    text-align: center;
+}
+
+.character-button > h2 {
+    color: black;
+    margin: 0;
+}
+
+.character-button > h1 {
+    color: black;
+    margin: 0;
+}
+
+.above-tone {
+    height: 60px;
+}
+
+.quiz-button-body {
+    text-align: center;
+}

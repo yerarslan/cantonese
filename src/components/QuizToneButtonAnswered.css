@@ -1,0 +1,16 @@
+.tone-button {
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    font-size: 25px;
+    border: 0px;
+    color: white;
+}
+
+.above-tone {
+    height: 60px;
+}
+
+.quiz-button-body {
+    text-align: center;
+}

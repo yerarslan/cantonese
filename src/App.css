@@ -1,0 +1,35 @@
+.App {
+    background-color: #4e3b30;
+}
+
+.main-menu-top-bar {
+    height: 15%;
+    width: 100%;
+    background-color: #f1a640;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.main-menu-top-bar-image {
+    width: 650px;
+}
+
+.main-menu-question-button {
+    margin: 15px;
+    position: absolute;
+    right:    0;
+    bottom:   0;
+}
+
+.main-menu-information-button {
+    margin: 15px;
+    position: absolute;
+    right:    60px;
+    bottom:   0;
+}
+
+iframe {
+    width: 100vw;
+    height: 100vh;
+}
